@@ -1,16 +1,11 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Improve your existing web pages by making them responsive, applying themes and adding animation.
 
 ### What you will make
 
-Add something here to showcase here, for example:
+You will start with a basic website that you already made and improve on it with custom colours, themes and animation.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
 
 ### What you will learn
 
